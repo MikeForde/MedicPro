@@ -1,0 +1,42 @@
+﻿[
+  {
+    "id" : 1,
+    "ConditionId" : 0,
+    "ConditionName" : "Tension headache",
+    "Cheese" : 5,
+    "Nausea_and_Vomiting" : 2,
+    "PV_bleeding" : 1,
+    "Site" : "Top"
+  },
+ 
+  {
+    "id" : 2,
+    "ConditionId" : 1,
+    "ConditionName" : "Post Head Injury Headache",
+    "Cheese" : 4,
+    "Nausea_and_Vomiting" : 3,
+    "PV_bleeding" : 5,
+    "Site" : "Left"
+  },
+ 
+  {
+    "id" : 3,
+    "ConditionId" : 2,
+    "ConditionName" : "Migraine",
+    "Cheese" : 3,
+    "Nausea_and_Vomiting" : 4,
+    "PV_bleeding" : 3,
+    "Site" : "Right"
+  },
+ 
+  {
+    "id" : 4,
+    "ConditionId" : 3,
+    "ConditionName" : "Sinusitis",
+    "Cheese" : 2,
+    "Nausea_and_Vomiting" : 5,
+    "PV_bleeding" : 3,
+    "Site" : "Back"
+  }
+ 
+]
