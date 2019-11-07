@@ -1,0 +1,47 @@
+﻿[
+  {
+    "id" : 1,
+    "ConditionId" : 5,
+    "ConditionName" : "Otitis Media",
+    "Unilateral" : 4,
+    "Needs_Hearing_Test" : "Yes",
+    "Discharge" : 3
+  },
+ 
+  {
+    "id" : 2,
+    "ConditionId" : 4,
+    "ConditionName" : "Otitis Externa",
+    "Unilateral" : 4,
+    "Needs_Hearing_Test" : "No",
+    "Discharge" : 4
+  },
+ 
+  {
+    "id" : 3,
+    "ConditionId" : 6,
+    "ConditionName" : "Hearing Loss",
+    "Unilateral" : 3,
+    "Needs_Hearing_Test" : "Yes",
+    "Discharge" : 1
+  },
+ 
+  {
+    "id" : 4,
+    "ConditionId" : 7,
+    "ConditionName" : "Ear Wax",
+    "Unilateral" : 3,
+    "Needs_Hearing_Test" : "No",
+    "Discharge" : 2
+  },
+ 
+  {
+    "id" : 5,
+    "ConditionId" : 8,
+    "ConditionName" : "Auditory Barotrauma",
+    "Unilateral" : 4,
+    "Needs_Hearing_Test" : "Yes",
+    "Discharge" : 1
+  }
+ 
+]
