@@ -18,20 +18,6 @@ file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/collection-
 file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/unmodifiable_wrappers.dart
 file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/utils.dart
 file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/wrappers.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/date_symbols.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/intl.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/number_symbols.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/number_symbols_data.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/src/date_format_internal.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/src/intl/bidi_formatter.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/src/intl/bidi_utils.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/src/intl/compact_number_format.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/src/intl/date_format.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/src/intl/date_format_field.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/src/intl/date_format_helpers.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/src/intl/number_format.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/src/intl_helpers.dart
-file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib/src/plural_rules.dart
 file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.7/lib/meta.dart
 file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///Developer/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
@@ -617,4 +603,3 @@ file:///Users/michaelforde/Documents/Programming/MedicPro/Flutter/flutter_app/li
 file:///Users/michaelforde/Documents/Programming/MedicPro/Flutter/flutter_app/lib/mmp/ui/conditionSubList.dart
 file:///Users/michaelforde/Documents/Programming/MedicPro/Flutter/flutter_app/lib/mmp/ui/custom_tabbar.dart
 file:///Users/michaelforde/Documents/Programming/MedicPro/Flutter/flutter_app/lib/mmp/ui/df_common.dart
-file:///Users/michaelforde/Documents/Programming/MedicPro/Flutter/flutter_app/lib/mmp/utils/utils.dart
