@@ -1,0 +1,20 @@
+﻿[
+  {
+    "id" : 1,
+    "calcName" : "FeverPain Score",
+    "isScored" : 1
+  },
+ 
+  {
+    "id" : 2,
+    "calcName" : "BMI",
+    "isScored" : 0
+  },
+ 
+  {
+    "id" : 3,
+    "calcName" : "Glasgow Coma Scale (GCS)",
+    "isScored" : 1
+  }
+ 
+]

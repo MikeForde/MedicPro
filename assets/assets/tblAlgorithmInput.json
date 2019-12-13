@@ -1,0 +1,18 @@
+﻿[
+  {
+    "id" : 3,
+    "calcId" : 2,
+    "paramName" : "Weight",
+    "paramRange" : "0-300",
+    "paramUnits" : "kg"
+  },
+ 
+  {
+    "id" : 4,
+    "calcId" : 2,
+    "paramName" : "Height",
+    "paramRange" : "0-300",
+    "paramUnits" : "cm"
+  }
+ 
+]

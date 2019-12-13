@@ -1,0 +1,11 @@
+﻿[
+  {
+    "id" : 1,
+    "calcId" : 2,
+    "paramName" : "BMI",
+    "paramRange" : "0-50",
+    "paramUnits" : "kg/m^2",
+    "outputCalculation" : "i1/(i2/100*i2/100)"
+  }
+ 
+]

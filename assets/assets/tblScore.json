@@ -1,0 +1,58 @@
+﻿[
+  {
+    "id" : 1,
+    "calcId" : 1,
+    "scoreLevel" : 1,
+    "scoreMeaning" : "14-18% isolation of streptococcus.\n\nUnlikely streptococcal infection; antibiotics not recommended."
+  },
+ 
+  {
+    "id" : 2,
+    "calcId" : 1,
+    "scoreLevel" : 2,
+    "scoreMeaning" : "30-35% isolation of streptococcus.\n\nConsider delayed antibiotics."
+  },
+ 
+  {
+    "id" : 3,
+    "calcId" : 1,
+    "scoreLevel" : 3,
+    "scoreMeaning" : "39-48% isolation of streptococcus.\n\nConsider delayed antibiotics."
+  },
+ 
+  {
+    "id" : 4,
+    "calcId" : 1,
+    "scoreLevel" : 5,
+    "scoreMeaning" : "62-65% isolation of streptococcus.\n\nConsider antibiotics."
+  },
+ 
+  {
+    "id" : 5,
+    "calcId" : 3,
+    "scoreLevel" : 8,
+    "scoreMeaning" : "Severely Affected-Urgently Needs Intervention"
+  },
+ 
+  {
+    "id" : 6,
+    "calcId" : 3,
+    "scoreLevel" : 12,
+    "scoreMeaning" : "Moderately Affected-Needs Investigation"
+  },
+ 
+  {
+    "id" : 7,
+    "calcId" : 3,
+    "scoreLevel" : 14,
+    "scoreMeaning" : "Mildly Affected-Needs Repeat Observation"
+  },
+ 
+  {
+    "id" : 8,
+    "calcId" : 3,
+    "scoreLevel" : 15,
+    "scoreMeaning" : "Unaffected-Alert"
+  }
+ 
+]

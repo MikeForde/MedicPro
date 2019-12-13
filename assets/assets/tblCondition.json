@@ -2013,6 +2013,30 @@
     "drug4" : "",
     "drug5" : "",
     "bolHasDF" : 0
+  },
+ 
+  {
+    "id" : 84,
+    "mainGroupId" : 18,
+    "groupnumber" : 15,
+    "groupname" : "Mental",
+    "subsection" : "15.1",
+    "condition" : "Unhappy at work",
+    "readcode" : "13JM0",
+    "genInfo" : "Describe condition - one paragraph suggested",
+    "history" : "Enter key symptoms - bullet list suggested",
+    "examination" : "Enter key signs - bullet list suggested",
+    "investigation" : "If any - if not enter Nil-f",
+    "management" : "Describe management expected from Basic and Intermediate CMT",
+    "occHealth" : "Describe any occ health or public health considerations",
+    "refer" : "Under what circumstances should the medic consider referral to a nurse/doctor",
+    "highlight" : "Any other issues of note",
+    "drug1" : "Aciclovir Cream 5% 2g tube",
+    "drug2" : "Bismuth and Zinc Oxide Ointment (Anusol) 25g",
+    "drug3" : "",
+    "drug4" : "",
+    "drug5" : "",
+    "bolHasDF" : 0
   }
  
 ]

@@ -1,15 +1,5 @@
 ﻿[
   {
-    "id" : 1,
-    "ConditionId" : 0,
-    "ConditionName" : "Tension headache",
-    "Cheese" : 5,
-    "Nausea_and_Vomiting" : 2,
-    "PV_bleeding" : 1,
-    "Site" : "Top"
-  },
- 
-  {
     "id" : 2,
     "ConditionId" : 1,
     "ConditionName" : "Post Head Injury Headache",
@@ -37,6 +27,16 @@
     "Nausea_and_Vomiting" : 5,
     "PV_bleeding" : 3,
     "Site" : "Back"
+  },
+ 
+  {
+    "id" : 5,
+    "ConditionId" : 0,
+    "ConditionName" : "Tension Headache",
+    "Cheese" : 3,
+    "Nausea_and_Vomiting" : 3,
+    "PV_bleeding" : 3,
+    "Site" : "Unknown"
   }
  
 ]
