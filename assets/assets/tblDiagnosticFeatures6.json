@@ -1,0 +1,42 @@
+﻿[
+  {
+    "id" : 1,
+    "ConditionId" : 24,
+    "ConditionName" : "The Common Cold and Influenza",
+    "Wheezing" : 2,
+    "Sputum" : 3,
+    "Temperature" : 4,
+    "Sneezing" : 4
+  },
+ 
+  {
+    "id" : 2,
+    "ConditionId" : 25,
+    "ConditionName" : "Chest Infections",
+    "Wheezing" : 3,
+    "Sputum" : 4,
+    "Temperature" : 5,
+    "Sneezing" : 2
+  },
+ 
+  {
+    "id" : 3,
+    "ConditionId" : 26,
+    "ConditionName" : "Asthma (Emergency Treatment)",
+    "Wheezing" : 4,
+    "Sputum" : 2,
+    "Temperature" : 1,
+    "Sneezing" : 1
+  },
+ 
+  {
+    "id" : 4,
+    "ConditionId" : 27,
+    "ConditionName" : "Hay Fever",
+    "Wheezing" : 3,
+    "Sputum" : 2,
+    "Temperature" : 1,
+    "Sneezing" : 4
+  }
+ 
+]
