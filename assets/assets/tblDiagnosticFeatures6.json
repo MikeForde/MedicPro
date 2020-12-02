@@ -6,7 +6,8 @@
     "Wheezing" : 2,
     "Sputum" : 3,
     "Temperature" : 4,
-    "Sneezing" : 4
+    "Sneezing" : 4,
+    "Short_of_Breath" : 2
   },
  
   {
@@ -16,7 +17,8 @@
     "Wheezing" : 3,
     "Sputum" : 4,
     "Temperature" : 5,
-    "Sneezing" : 2
+    "Sneezing" : 2,
+    "Short_of_Breath" : 3
   },
  
   {
@@ -26,7 +28,8 @@
     "Wheezing" : 4,
     "Sputum" : 2,
     "Temperature" : 1,
-    "Sneezing" : 1
+    "Sneezing" : 1,
+    "Short_of_Breath" : 4
   },
  
   {
@@ -36,7 +39,8 @@
     "Wheezing" : 3,
     "Sputum" : 2,
     "Temperature" : 1,
-    "Sneezing" : 4
+    "Sneezing" : 4,
+    "Short_of_Breath" : 2
   }
  
 ]

@@ -49,7 +49,7 @@
     "calcId" : 3,
     "defaultText" : "Spontaneously",
     "defaultVal" : 4,
-    "txtDescription" : "Eye Opening Score",
+    "txtDescription" : "Eye",
     "listMeaning" : "1;No Response;2;To Pain;3;To Verbal Command;4;Spontaneously"
   },
  
@@ -58,7 +58,7 @@
     "calcId" : 3,
     "defaultText" : "Obeys Command",
     "defaultVal" : 6,
-    "txtDescription" : "Best Motor Response Score",
+    "txtDescription" : "Motor",
     "listMeaning" : "1;No Response;2;Extension(decerebrate);3;Flexion Abnormal(decorticate);4;Flexion Withdrawal;5;Localises pain;6;Obeys Command"
   },
  
@@ -67,8 +67,53 @@
     "calcId" : 3,
     "defaultText" : "Orientated and converses",
     "defaultVal" : 5,
-    "txtDescription" : "Best Verbal Response Score",
+    "txtDescription" : "Verbal",
     "listMeaning" : "1;No Response;2;Incomprehensible Commands;3;Inappropriate words (cries);4;Disorientated and converses;5;Orientated and converses"
+  },
+ 
+  {
+    "id" : 9,
+    "calcId" : 4,
+    "defaultText" : "No",
+    "defaultVal" : 1,
+    "txtDescription" : "Walking",
+    "listMeaning" : "701;Yes - Not Injured;501;Yes - Injured;1;No"
+  },
+ 
+  {
+    "id" : 10,
+    "calcId" : 4,
+    "defaultText" : "Yes",
+    "defaultVal" : 1,
+    "txtDescription" : "Breathing",
+    "listMeaning" : "201;No - Airway not opening - under fire;101;No - airway not opening - not under fire;20;No - airway opening;1;Yes"
+  },
+ 
+  {
+    "id" : 11,
+    "calcId" : 4,
+    "defaultText" : "No",
+    "defaultVal" : 1,
+    "txtDescription" : "Catastrophic limb bleeding",
+    "listMeaning" : "20;Yes;1;No"
+  },
+ 
+  {
+    "id" : 12,
+    "calcId" : 4,
+    "defaultText" : "10-30/min",
+    "defaultVal" : 1,
+    "txtDescription" : "Breathing Rate",
+    "listMeaning" : "20;Under 10 or over 30/min;1;10-30/min"
+  },
+ 
+  {
+    "id" : 13,
+    "calcId" : 4,
+    "defaultText" : "Conscious and under 120/min",
+    "defaultVal" : 1,
+    "txtDescription" : "Pulse rate and response",
+    "listMeaning" : "20;Unconscious or over 120/min;1;Conscious and under 120/min"
   }
  
 ]

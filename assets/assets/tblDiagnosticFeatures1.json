@@ -1,42 +1,62 @@
 ﻿[
   {
+    "id" : 1,
+    "ConditionId" : 0,
+    "ConditionName" : "Tension headache",
+    "Severe_Pain" : 3,
+    "Temperature" : 2,
+    "Neck_stiffness" : 2,
+    "Main_Feature" : "Diffuse or tight band"
+  },
+ 
+  {
     "id" : 2,
-    "ConditionId" : 1,
-    "ConditionName" : "Post Head Injury Headache",
-    "Cheese" : 4,
-    "Nausea_and_Vomiting" : 3,
-    "PV_bleeding" : 5,
-    "Site" : "Left"
+    "ConditionId" : 2,
+    "ConditionName" : "Migraine",
+    "Severe_Pain" : 4,
+    "Temperature" : 2,
+    "Neck_stiffness" : 2,
+    "Main_Feature" : "Unilateral pulsating"
   },
  
   {
     "id" : 3,
-    "ConditionId" : 2,
-    "ConditionName" : "Migraine",
-    "Cheese" : 3,
-    "Nausea_and_Vomiting" : 4,
-    "PV_bleeding" : 3,
-    "Site" : "Right"
+    "ConditionId" : 3,
+    "ConditionName" : "Sinusitis",
+    "Severe_Pain" : 3,
+    "Temperature" : 4,
+    "Neck_stiffness" : 2,
+    "Main_Feature" : "Facial pain"
   },
  
   {
     "id" : 4,
-    "ConditionId" : 3,
-    "ConditionName" : "Sinusitis",
-    "Cheese" : 2,
-    "Nausea_and_Vomiting" : 5,
-    "PV_bleeding" : 3,
-    "Site" : "Back"
+    "ConditionId" : 1,
+    "ConditionName" : "Post Head Injury Headache",
+    "Severe_Pain" : 3,
+    "Temperature" : 2,
+    "Neck_stiffness" : 3,
+    "Main_Feature" : "Recent injury"
   },
  
   {
     "id" : 5,
-    "ConditionId" : 0,
-    "ConditionName" : "Tension Headache",
-    "Cheese" : 3,
-    "Nausea_and_Vomiting" : 3,
-    "PV_bleeding" : 3,
-    "Site" : "Unknown"
+    "ConditionId" : -1,
+    "ConditionName" : "Meningitis - refer MO",
+    "Severe_Pain" : 4,
+    "Temperature" : 4,
+    "Neck_stiffness" : 4,
+    "Main_Feature" : "All over"
+  },
+ 
+  {
+    "id" : 6,
+    "ConditionId" : -1,
+    "ConditionName" : "Subarachnoid haemorrhage - refer MO",
+    "Severe_Pain" : 4,
+    "Temperature" : 2,
+    "Neck_stiffness" : 4,
+    "Main_Feature" : "Like hit to head"
   }
  
 ]

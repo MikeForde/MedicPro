@@ -53,6 +53,48 @@
     "calcId" : 3,
     "scoreLevel" : 15,
     "scoreMeaning" : "Unaffected-Alert"
+  },
+ 
+  {
+    "id" : 9,
+    "calcId" : 4,
+    "scoreLevel" : 1000,
+    "scoreMeaning" : "Survivor Reception"
+  },
+ 
+  {
+    "id" : 10,
+    "calcId" : 4,
+    "scoreLevel" : 700,
+    "scoreMeaning" : "T3"
+  },
+ 
+  {
+    "id" : 11,
+    "calcId" : 4,
+    "scoreLevel" : 500,
+    "scoreMeaning" : "Under effective enemy fire - DEAD"
+  },
+ 
+  {
+    "id" : 13,
+    "calcId" : 4,
+    "scoreLevel" : 200,
+    "scoreMeaning" : "Carry out BLS"
+  },
+ 
+  {
+    "id" : 14,
+    "calcId" : 4,
+    "scoreLevel" : 100,
+    "scoreMeaning" : "T1"
+  },
+ 
+  {
+    "id" : 15,
+    "calcId" : 4,
+    "scoreLevel" : 5,
+    "scoreMeaning" : "T2"
   }
  
 ]
