@@ -1,2 +1,1 @@
-scripts/* linguist-language=JavaScript
-*.js linguist-language=Dart->JavaScript
+*.js linguist-language=Dart
